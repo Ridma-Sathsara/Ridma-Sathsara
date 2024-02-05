@@ -8,13 +8,13 @@
 <table border="0">
 <tr>
     <th>
- <p align="left">       
+     
 - 🌱 I’m currently learning **Javascript and MERN Stack**
 
 - 📫 How to reach me **ridmasathsara25@gmail.com**
 
 - ⚡ Fun fact **I love experimenting with new recipes and consider myself a part-time chef**
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ridmasathsara25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ridmasathsara25" height="30" width="40" /></a>
