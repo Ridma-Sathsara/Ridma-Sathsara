@@ -24,8 +24,9 @@
 
 <br/>
 
-<div align="center" style="border: 2px solid #e1e1e1; padding: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=johnsonlynch31298&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" style="max-width: 100%; border-radius: 8px;" />
+<div align="center" style="border: 2px solid #e1e1e1; padding: 20px; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); background-color: #f8f8f8;">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=johnsonlynch31298&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" style="max-width: 100%; border-radius: 12px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);" />
 </div>
 
 <br/>
+
