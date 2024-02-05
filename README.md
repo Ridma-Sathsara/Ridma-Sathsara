@@ -13,7 +13,7 @@
 
  📫 How to reach me **ridmasathsara25@gmail.com**
 
-< centre>⚡ Fun fact **I love experimenting with new recipes and consider myself a part-time chef**
+<centre>⚡ Fun fact **I love experimenting with new recipes and consider myself a part-time chef**
 </center> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
