@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ridma Sathsara</h1>
-<h3 align="center">a passionate web developer and software engineering student at SLIIT in Sri Lanka</h3>
+<h3 align="center"> A passionate web developer and software engineering student at SLIIT in Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridma-sathsara&label=Profile%20views&color=0e75b6&style=flat" alt="Ridma-Sathsara" /> </p>
 
@@ -41,3 +41,5 @@
 
 </tr>
 </table>
+
+
