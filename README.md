@@ -9,11 +9,11 @@
 <tr>
     <th>
      
-- 🌱 I’m currently learning **Javascript and MERN Stack**
+ 🌱 I’m currently learning **Javascript and MERN Stack**
 
-- 📫 How to reach me **ridmasathsara25@gmail.com**
+ 📫 How to reach me **ridmasathsara25@gmail.com**
 
-- ⚡ Fun fact **I love experimenting with new recipes and consider myself a part-time chef**
+ ⚡ Fun fact **I love experimenting with new recipes and consider myself a part-time chef**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
