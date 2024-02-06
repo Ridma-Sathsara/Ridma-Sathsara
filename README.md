@@ -14,7 +14,7 @@
 ⚡ Fun fact I love experimenting with new recipes and consider myself a part-time chef  
   
 
-<table border="0">
+<table border="0" align="center">
 <tr>
     <th>
 
