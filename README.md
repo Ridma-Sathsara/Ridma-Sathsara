@@ -8,11 +8,11 @@
 <table border="0">
 <tr>
     <th>
-     
+<p align="left">     
  🌱 I’m currently learning **Javascript and MERN Stack**
 
  📫 How to reach me **ridmasathsara25@gmail.com**
-
+</P>
 <centre>⚡ Fun fact **I love experimenting with new recipes and consider myself a part-time chef**
 </center>
 <hr>
