@@ -58,10 +58,6 @@
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
 </td></tr></table>  
 
 
