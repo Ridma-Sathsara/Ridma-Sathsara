@@ -12,6 +12,9 @@
   
 
 ⚡ Fun fact I love experimenting with new recipes and consider myself a part-time chef  
+<br>
+
+<h2>Github Stats </h2> 
 
 <table>
 <tr>
@@ -56,6 +59,6 @@
 </tr>
 </table>
 
-<h2>Github Stats </h2> 
+
 
 
