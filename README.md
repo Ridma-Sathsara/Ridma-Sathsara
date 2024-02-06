@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://twitter.com/ridmasathsara25" target="blank"><img src="https://img.shields.io/twitter/follow/ridmasathsara25?logo=twitter&style=for-the-badge" alt="ridmasathsara25" /></a> </p>
 
 🌱I’m currently learning Javascript and MERN Stack  
+💬 Ask me about C,C++,Java
   
 
 📫 How to reach me ridmasathsara25@gmail.com  
