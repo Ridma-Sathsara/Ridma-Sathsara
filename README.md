@@ -12,9 +12,9 @@
  🌱 I’m currently learning **Javascript and MERN Stack**
 
  📫 How to reach me **ridmasathsara25@gmail.com**
-</P>
-<centre>⚡ Fun fact **I love experimenting with new recipes and consider myself a part-time chef**
-</center>
+
+⚡ Fun fact **I love experimenting with new recipes and consider myself a part-time chef**
+</p>
 <hr>
 
 <h3 align="center">Connect with me:</h3>
