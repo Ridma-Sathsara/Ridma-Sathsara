@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/ridmasathsara25" target="blank"><img src="https://img.shields.io/twitter/follow/ridmasathsara25?logo=twitter&style=for-the-badge" alt="ridmasathsara25" /></a> </p>
 
-<table border="0">
-<tr>
-    <th>
-🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
 🌱I’m currently learning Javascript and MERN Stack  
   
 
@@ -20,7 +14,11 @@
 ⚡ Fun fact I love experimenting with new recipes and consider myself a part-time chef  
   
 
-<hr>
+<table border="0">
+<tr>
+    <th>
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
