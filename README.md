@@ -27,12 +27,12 @@
 
 </table>
 
-## My Skill Set  
-<table><tr><td valign="top" width="63%">
+
+## Languages & Tools   
+<table align="center"><tr><td valign="top" width="63%">
 
 
 
-### Languages & Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="55" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="55" /></a>  
@@ -81,11 +81,6 @@
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=johnsonlynch31298&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false" /></div>  
 
-<br/>  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Ridma-Sathsara&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>   
 
