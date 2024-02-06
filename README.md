@@ -16,13 +16,13 @@
 
 <h2>Github Stats </h2> 
 
-<table>
+<table align="center">
 <tr>
   <th>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ridma-Sathsara&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 70%" /></div>  
     </th>
 
-  <th></th>
+  
  </tr>
 
 </table>
