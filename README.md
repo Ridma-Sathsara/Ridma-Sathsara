@@ -69,17 +69,25 @@
 
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    
-<a href="https://twitter.com/ridmasathsara25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ridmasathsara25" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ridma sathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridma sathsara" height="30" width="40" /></a>
-<a href="https://fb.com/ridma sathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ridma sathsara" height="30" width="40" /></a>
-<a href="https://instagram.com/ridma.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ridma.exe" height="30" width="40" /></a>
-</p>
-<div align="center" style="border: 2px solid #e1e1e1; padding: 20px; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); background-color: #f8f8f8;">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=johnsonlynch31298&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" style="max-width: 30%; border-radius: 12px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);" />
-</div>
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Ridma-Sathsara" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/RidmaSathsara25" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/Ridma Sathsara" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/Ridma Sathsara" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/ridma.exe" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
 
 
