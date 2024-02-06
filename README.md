@@ -87,7 +87,30 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+
+  <br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=johnsonlynch31298&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>  
   
+
+<br/>  
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/Ridma-Sathsara" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
 
 
 
