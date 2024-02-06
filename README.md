@@ -8,13 +8,18 @@
 <table border="0">
 <tr>
     <th>
-<p align="left">     
- 🌱 I’m currently learning **Javascript and MERN Stack**
+🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+  
 
- 📫 How to reach me **ridmasathsara25@gmail.com**
+🌱I’m currently learning Javascript and MERN Stack  
+  
 
-⚡ Fun fact **I love experimenting with new recipes and consider myself a part-time chef**
-</p>
+📫 How to reach me ridmasathsara25@gmail.com  
+  
+
+⚡ Fun fact I love experimenting with new recipes and consider myself a part-time chef  
+  
+
 <hr>
 
 <h3 align="center">Connect with me:</h3>
