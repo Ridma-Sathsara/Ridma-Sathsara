@@ -7,7 +7,7 @@
 
 🌱I’m currently learning Javascript and MERN Stack  
 
-💬 Ask me about C,C++,Java, Python & MERN
+💬 Ask me about C,C++,Java, Python & MERN Stack
 
 📫 How to reach me ridmasathsara25@gmail.com  
 
