@@ -37,42 +37,20 @@ fun_fact: "I love experimenting with new recipes and consider myself a part-time
 
 <br/>
 
-## 📊 GitHub Stats
+
+
+## 🎧 What I'm Playing Right Now
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ridma-Sathsara&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridma-Sathsara&layout=compact&hide_border=true&theme=tokyonight" width="30%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridma-Sathsara&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=johnsonlynch31298&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 
 </div>
 
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ridma-Sathsara&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
+> If this still doesn't show your current track, double-check at **[spotify-github-profile.vercel.app](https://spotify-github-profile.vercel.app)** that your account is logged in and the UID matches exactly what's shown there — the widget only refreshes correctly while that connection stays active.
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ridma-Sathsara/Ridma-Sathsara/output/github-contribution-grid-snake-dark.svg" width="90%" />
-
-</div>
-
-> **Note:** the snake animation needs a one-time GitHub Actions setup in this repo. If you'd like, I can generate the exact workflow file for you to add.
-
-<br/>
 
 ## 💡 Random Dev Quote
 
@@ -84,18 +62,6 @@ fun_fact: "I love experimenting with new recipes and consider myself a part-time
 
 <br/>
 
-## 🚧 Currently Building
-
-<div align="center">
-
-| 🔭 Project | 🛠️ Stack | 📌 Status |
-|:---|:---|:---|
-| *Add your active project here* | MERN Stack | In Progress |
-| *Add another project here* | Flutter | Planning |
-
-</div>
-
-<br/>
 
 ## 🌐 Connect With Me
 
