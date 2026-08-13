@@ -1,100 +1,92 @@
+<div align="center">
 
-<h1>IT22585776</h1>
-<h1 align="center">Hi 👋, I'm Ridma Sathsara</h1>
-<h3 align="center"> A passionate web developer and software engineering student at SLIIT in Sri Lanka</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00acee&height=200&section=header&text=Ridma%20Sathsara&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridma-sathsara&label=Profile%20views&color=0e75b6&style=flat" alt="Ridma-Sathsara" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergrad+%40+SLIIT;MERN+Stack+Developer;Turning+Ideas+Into+Code;Part-time+Chef+%F0%9F%8D%B3" alt="Typing SVG" />
 
-<p align="left"> <a href="https://twitter.com/ridmasathsara25" target="blank"><img src="https://img.shields.io/twitter/follow/ridmasathsara25?logo=twitter&style=for-the-badge" alt="ridmasathsara25" /></a> </p>
+<br/>
 
-🌱I’m currently learning Javascript and MERN Stack  
+<img src="https://komarev.com/ghpvc/?username=Ridma-Sathsara&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Ridma-Sathsara profile views" />
+<a href="https://twitter.com/ridmasathsara25"><img src="https://img.shields.io/twitter/follow/ridmasathsara25?logo=twitter&style=for-the-badge&color=1DA1F2" /></a>
 
-💬 Ask me about C,C++,Java,Flutter,Python & MERN Stack
-
-📫 How to reach me ridmasathsara25@gmail.com  
-
-⚡ Fun fact I love experimenting with new recipes and consider myself a part-time chef  
-<br>
-
-<h2>Github Stats </h2> 
-
-<table align="center">
-<tr>
-  <th>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ridma-Sathsara&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 70%" /></div>  
-    </th>
-
-  
- </tr>
-
-</table>
-
-
-## Languages & Tools   
-<table align="center"><tr><td valign="top" width="63%">
-
-
-
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="55" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="55" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="55" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="55" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="55" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="55" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="55" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="55" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="55" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="55" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="55" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="55" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="55" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="55" /></a>  
 </div>
 
-</td></tr></table>  
+<br/>
 
+## 👋 About Me
 
+```yaml
+name: Ridma Sathsara
+student_id: IT22585776
+role: Software Engineering Student @ SLIIT, Sri Lanka
+currently_learning: [JavaScript, MERN Stack]
+ask_me_about: [C, C++, Java, Flutter, Python, MERN Stack]
+contact: ridmasathsara25@gmail.com
+fun_fact: "I love experimenting with new recipes and consider myself a part-time chef 🍳"
+```
 
+<br/>
 
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Ridma-Sathsara" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/RidmaSathsara25" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/Ridma Sathsara" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Ridma Sathsara" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/ridma.exe" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-
-  <br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=johnsonlynch31298&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false" /></div>  
-
-
-<br/>   
+## 🛠️ Languages & Tools
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/Ridma-Sathsara" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
+<img src="https://skillicons.dev/icons?i=react,html,css,js,cpp,c,java,mysql,nodejs,php,python,mongodb,flutter&perline=7" />
 
+</div>
 
+<br/>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ridma-Sathsara&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridma-Sathsara&layout=compact&hide_border=true&theme=tokyonight" width="30%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridma-Sathsara&theme=tokyonight&hide_border=true" width="60%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ridma-Sathsara&theme=tokyo-night&hide_border=true" width="90%" />
+
+</div>
+
+<br/>
+
+## 🎧 What I'm Listening To
+
+<div align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=johnsonlynch31298&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false" />
+</div>
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Ridma-Sathsara" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://twitter.com/RidmaSathsara25" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://linkedin.com/in/Ridma-Sathsara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.facebook.com/Ridma-Sathsara" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://instagram.com/ridma.exe" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:ridmasathsara25@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/Ridma-Sathsara" target="_blank">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00acee,100:0e75b6&height=100&section=footer" width="100%"/>
