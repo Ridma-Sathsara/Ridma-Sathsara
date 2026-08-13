@@ -48,18 +48,51 @@ fun_fact: "I love experimenting with new recipes and consider myself a part-time
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridma-Sathsara&theme=tokyonight&hide_border=true" width="60%" />
 
+</div>
+
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ridma-Sathsara&theme=tokyo-night&hide_border=true" width="90%" />
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ridma-Sathsara&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
 <br/>
 
-## 🎧 What I'm Listening To
+## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=johnsonlynch31298&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false" />
+
+<img src="https://raw.githubusercontent.com/Ridma-Sathsara/Ridma-Sathsara/output/github-contribution-grid-snake-dark.svg" width="90%" />
+
+</div>
+
+> **Note:** the snake animation needs a one-time GitHub Actions setup in this repo. If you'd like, I can generate the exact workflow file for you to add.
+
+<br/>
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+<br/>
+
+## 🚧 Currently Building
+
+<div align="center">
+
+| 🔭 Project | 🛠️ Stack | 📌 Status |
+|:---|:---|:---|
+| *Add your active project here* | MERN Stack | In Progress |
+| *Add another project here* | Flutter | Planning |
+
 </div>
 
 <br/>
