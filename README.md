@@ -18,7 +18,7 @@
 ```yaml
 name: Ridma Sathsara
 student_id: IT22585776
-role: Software Engineering Student @ SLIIT, Sri Lanka
+role: Software Engineering Graduate @ SLIIT, Sri Lanka
 currently_learning: [JavaScript, MERN Stack]
 ask_me_about: [C, C++, Java, Flutter, Python, MERN Stack]
 contact: ridmasathsara25@gmail.com
